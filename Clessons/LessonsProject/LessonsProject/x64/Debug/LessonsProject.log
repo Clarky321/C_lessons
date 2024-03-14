@@ -1,3 +1,4 @@
-﻿  escape_sequence_2.cpp
-first_program_1.obj : error LNK2005: main уже определен в escape_sequence_2.obj
-C:\loran-project\C_lessons\Clessons\LessonsProject\x64\Debug\LessonsProject.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
+﻿  data_types_3.cpp
+  escape_sequence_2.cpp
+  Создание кода...
+  LessonsProject.vcxproj -> C:\loran-project\C_lessons\Clessons\LessonsProject\x64\Debug\LessonsProject.exe

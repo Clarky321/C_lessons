@@ -127,9 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="constant_5.cpp" />
     <ClCompile Include="data_types_3.cpp" />
     <ClCompile Include="escape_sequence_2.cpp" />
     <ClCompile Include="first_program_1.cpp" />
+    <ClCompile Include="variables_4.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
