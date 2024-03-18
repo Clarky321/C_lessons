@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="10_logical_operations.cpp" />
+    <ClCompile Include="11_if_else.cpp" />
     <ClCompile Include="1_first_program.cpp" />
     <ClCompile Include="2_escape_sequence.cpp" />
     <ClCompile Include="3_data_types.cpp" />
