@@ -48,5 +48,8 @@
     <ClCompile Include="11_if_else.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
+    <ClCompile Include="12_switch.cpp">
+      <Filter>Файлы ресурсов</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\12_switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\12_switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\11_if_else.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\11_if_else.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "12_switch.cpp",
+              "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\12_switch.cpp",
+              "RelativeDocumentMoniker": "LessonsProject\\12_switch.cpp",
+              "ToolTip": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\12_switch.cpp",
+              "RelativeToolTip": "LessonsProject\\12_switch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T09:02:02.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "11_if_else.cpp",
               "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\11_if_else.cpp",
               "RelativeDocumentMoniker": "LessonsProject\\11_if_else.cpp",
