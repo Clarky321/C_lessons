@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\16_break.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\16_break.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\15_for.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\15_for.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\14_do-while.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\14_do-while.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -27,19 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "16_break.cpp",
+              "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\16_break.cpp",
+              "RelativeDocumentMoniker": "LessonsProject\\16_break.cpp",
+              "ToolTip": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\16_break.cpp",
+              "RelativeToolTip": "LessonsProject\\16_break.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T07:44:22.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "15_for.cpp",
+              "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\15_for.cpp",
+              "RelativeDocumentMoniker": "LessonsProject\\15_for.cpp",
+              "ToolTip": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\15_for.cpp",
+              "RelativeToolTip": "LessonsProject\\15_for.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T06:34:31.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "14_do-while.cpp",
               "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\14_do-while.cpp",
               "RelativeDocumentMoniker": "LessonsProject\\14_do-while.cpp",
               "ToolTip": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\14_do-while.cpp",
               "RelativeToolTip": "LessonsProject\\14_do-while.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAwwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-20T07:17:30.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "13_while.cpp",
               "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\13_while.cpp",
               "RelativeDocumentMoniker": "LessonsProject\\13_while.cpp",
@@ -47,12 +81,11 @@
               "RelativeToolTip": "LessonsProject\\13_while.cpp",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-19T07:57:01.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-19T07:57:01.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "12_switch.cpp",
               "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\12_switch.cpp",
               "RelativeDocumentMoniker": "LessonsProject\\12_switch.cpp",
