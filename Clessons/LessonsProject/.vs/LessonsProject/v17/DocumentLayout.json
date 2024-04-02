@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\21_arrays_and_loops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\21_arrays_and_loops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\20_ array_initialization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\20_ array_initialization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\19_array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\19_array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -14,17 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "21_arrays_and_loops.cpp",
+              "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\21_arrays_and_loops.cpp",
+              "RelativeDocumentMoniker": "LessonsProject\\21_arrays_and_loops.cpp",
+              "ToolTip": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\21_arrays_and_loops.cpp",
+              "RelativeToolTip": "LessonsProject\\21_arrays_and_loops.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T09:53:46.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20_ array_initialization.cpp",
+              "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\20_ array_initialization.cpp",
+              "RelativeDocumentMoniker": "LessonsProject\\20_ array_initialization.cpp",
+              "ToolTip": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\20_ array_initialization.cpp",
+              "RelativeToolTip": "LessonsProject\\20_ array_initialization.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T09:48:21.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "19_array.cpp",
               "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\19_array.cpp",
               "RelativeDocumentMoniker": "LessonsProject\\19_array.cpp",
               "ToolTip": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\19_array.cpp",
               "RelativeToolTip": "LessonsProject\\19_array.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-26T07:05:33.808Z",
               "EditorCaption": ""
