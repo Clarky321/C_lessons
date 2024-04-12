@@ -1,0 +1,3 @@
+﻿  dz_7.cpp
+C:\loran-project\C_lessons\Homework\dz_7\dz_7\dz_7.cpp(12,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  dz_7.vcxproj -> C:\loran-project\C_lessons\Homework\dz_7\x64\Debug\dz_7.exe
