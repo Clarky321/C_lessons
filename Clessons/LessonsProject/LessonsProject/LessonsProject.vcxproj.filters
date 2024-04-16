@@ -78,10 +78,10 @@
     <ClCompile Include="21_arrays_and_loops.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
-    <ClCompile Include="sizeof.cpp">
-      <Filter>Исходные файлы</Filter>
+    <ClCompile Include="23_rand_srand.cpp">
+      <Filter>Файлы ресурсов</Filter>
     </ClCompile>
-    <ClCompile Include="22_rand_srand.cpp">
+    <ClCompile Include="22_sizeof.cpp">
       <Filter>Файлы ресурсов</Filter>
     </ClCompile>
   </ItemGroup>
