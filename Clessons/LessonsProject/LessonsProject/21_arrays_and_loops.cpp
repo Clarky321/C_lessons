@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// Массив в цикле for
+
 int main()
 {
 	setlocale(LC_ALL, "Rus");

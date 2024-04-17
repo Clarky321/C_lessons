@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\22_rand_srand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\22_rand_srand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\sizeof.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\sizeof.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\21_arrays_and_loops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\21_arrays_and_loops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\20_ array_initialization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\20_ array_initialization.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\19_array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\19_array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\25_two_dimensional_array_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\25_two_dimensional_array_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "25_two_dimensional_array_2.cpp",
+              "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\25_two_dimensional_array_2.cpp",
+              "RelativeDocumentMoniker": "LessonsProject\\25_two_dimensional_array_2.cpp",
+              "ToolTip": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\25_two_dimensional_array_2.cpp",
+              "RelativeToolTip": "LessonsProject\\25_two_dimensional_array_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-17T10:02:10.085Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -39,67 +36,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "22_rand_srand.cpp",
-              "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\22_rand_srand.cpp",
-              "RelativeDocumentMoniker": "LessonsProject\\22_rand_srand.cpp",
-              "ToolTip": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\22_rand_srand.cpp",
-              "RelativeToolTip": "LessonsProject\\22_rand_srand.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAgwB0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-12T12:38:23.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "sizeof.cpp",
-              "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\sizeof.cpp",
-              "RelativeDocumentMoniker": "LessonsProject\\sizeof.cpp",
-              "ToolTip": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\sizeof.cpp",
-              "RelativeToolTip": "LessonsProject\\sizeof.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-11T11:55:04.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "21_arrays_and_loops.cpp",
-              "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\21_arrays_and_loops.cpp",
-              "RelativeDocumentMoniker": "LessonsProject\\21_arrays_and_loops.cpp",
-              "ToolTip": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\21_arrays_and_loops.cpp",
-              "RelativeToolTip": "LessonsProject\\21_arrays_and_loops.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-02T09:53:46.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20_ array_initialization.cpp",
-              "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\20_ array_initialization.cpp",
-              "RelativeDocumentMoniker": "LessonsProject\\20_ array_initialization.cpp",
-              "ToolTip": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\20_ array_initialization.cpp",
-              "RelativeToolTip": "LessonsProject\\20_ array_initialization.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-02T09:48:21.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "19_array.cpp",
-              "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\19_array.cpp",
-              "RelativeDocumentMoniker": "LessonsProject\\19_array.cpp",
-              "ToolTip": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\19_array.cpp",
-              "RelativeToolTip": "LessonsProject\\19_array.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-26T07:05:33.808Z"
             }
           ]
         }

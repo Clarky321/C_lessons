@@ -4,6 +4,12 @@ using namespace std;
 
 /* sizeof */
 
+/*
+Операция sizeof определяет размер памяти, который соответствует идентификатору или типу.
+
+sizeof (имя)
+*/
+
 int main()
 {
 	setlocale(LC_ALL, "rus");

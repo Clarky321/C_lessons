@@ -33,6 +33,8 @@
     <ClCompile Include="20_ array_initialization.cpp" />
     <ClCompile Include="21_arrays_and_loops.cpp" />
     <ClCompile Include="23_rand_srand.cpp" />
+    <ClCompile Include="24_two_dimensional_array_1.cpp" />
+    <ClCompile Include="25_two_dimensional_array_2.cpp" />
     <ClCompile Include="2_escape_sequence.cpp" />
     <ClCompile Include="3_data_types.cpp" />
     <ClCompile Include="4_variables.cpp" />
