@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\",
+  "WorkspaceRootPath": "D:\\!!loran-project\\C\u002B\u002B\\C_lessons\\Clessons\\LessonsProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\25_two_dimensional_array_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\25_two_dimensional_array_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|D:\\!!loran-project\\C\u002B\u002B\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\26_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\26_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,23 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "25_two_dimensional_array_2.cpp",
-              "DocumentMoniker": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\25_two_dimensional_array_2.cpp",
-              "RelativeDocumentMoniker": "LessonsProject\\25_two_dimensional_array_2.cpp",
-              "ToolTip": "C:\\loran-project\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\25_two_dimensional_array_2.cpp",
-              "RelativeToolTip": "LessonsProject\\25_two_dimensional_array_2.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Title": "26_function.cpp",
+              "DocumentMoniker": "D:\\!!loran-project\\C\u002B\u002B\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\26_function.cpp",
+              "RelativeDocumentMoniker": "LessonsProject\\26_function.cpp",
+              "ToolTip": "D:\\!!loran-project\\C\u002B\u002B\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\26_function.cpp",
+              "RelativeToolTip": "LessonsProject\\26_function.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-17T10:02:10.085Z",
+              "WhenOpened": "2024-04-27T17:08:07.042Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             }
           ]
         }

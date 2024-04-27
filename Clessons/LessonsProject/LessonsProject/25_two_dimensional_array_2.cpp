@@ -30,7 +30,7 @@ int main()
 	{
 		for (int j = 0; j < COLS; j++)
 		{
-			cout << arr[i][j] << "t\";
+			cout << arr[i][j] << "\t";
 		}
 
 		cout << endl;
