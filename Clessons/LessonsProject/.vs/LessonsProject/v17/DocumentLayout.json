@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\!!loran-project\\C\u002B\u002B\\C_lessons\\Clessons\\LessonsProject\\",
+  "WorkspaceRootPath": "D:\\!!loran-project\\C\u002B\u002B\\lessons\\C_lessons\\Clessons\\LessonsProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|D:\\!!loran-project\\C\u002B\u002B\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\26_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\26_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|D:\\!!loran-project\\C\u002B\u002B\\lessons\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\28_passing_an_array_to_a_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\28_passing_an_array_to_a_function.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|D:\\!!loran-project\\C\u002B\u002B\\lessons\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\27_function_passing_arguments.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48506EF7-EC70-43B2-9D8D-A9B418297B88}|LessonsProject\\LessonsProject.vcxproj|solutionrelative:LessonsProject\\27_function_passing_arguments.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "26_function.cpp",
-              "DocumentMoniker": "D:\\!!loran-project\\C\u002B\u002B\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\26_function.cpp",
-              "RelativeDocumentMoniker": "LessonsProject\\26_function.cpp",
-              "ToolTip": "D:\\!!loran-project\\C\u002B\u002B\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\26_function.cpp",
-              "RelativeToolTip": "LessonsProject\\26_function.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA2AAAA",
+              "Title": "28_passing_an_array_to_a_function.cpp",
+              "DocumentMoniker": "D:\\!!loran-project\\C\u002B\u002B\\lessons\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\28_passing_an_array_to_a_function.cpp",
+              "RelativeDocumentMoniker": "LessonsProject\\28_passing_an_array_to_a_function.cpp",
+              "ToolTip": "D:\\!!loran-project\\C\u002B\u002B\\lessons\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\28_passing_an_array_to_a_function.cpp",
+              "RelativeToolTip": "LessonsProject\\28_passing_an_array_to_a_function.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwBkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-27T17:08:07.042Z",
+              "WhenOpened": "2024-06-07T13:17:12.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "27_function_passing_arguments.cpp",
+              "DocumentMoniker": "D:\\!!loran-project\\C\u002B\u002B\\lessons\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\27_function_passing_arguments.cpp",
+              "RelativeDocumentMoniker": "LessonsProject\\27_function_passing_arguments.cpp",
+              "ToolTip": "D:\\!!loran-project\\C\u002B\u002B\\lessons\\C_lessons\\Clessons\\LessonsProject\\LessonsProject\\27_function_passing_arguments.cpp",
+              "RelativeToolTip": "LessonsProject\\27_function_passing_arguments.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-07T12:29:38.586Z",
               "EditorCaption": ""
             }
           ]
